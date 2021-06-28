@@ -1,0 +1,7 @@
+依赖：
+spring web (web)
+myBatis Framework (sql)
+mySql Driver (sql)
+Lombok (developer tools)
+Java mail sender (I/O)
+spring data redis (nosql)
